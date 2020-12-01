@@ -1,10 +1,24 @@
-body
-{
-background-color:#fdfd96
+body  {
+  background: #fcbb31
+  
 }
+  
+
 .formatoletra {
-  color:#ffbf00
-    font-style:italic;
-  font-family: "CALIBRI";
+ 
+  color:#2203a8;
+    font-style:Italic;
+  font-family: "Trebuchet MS";
     font-size: 25px;
 }
+ p {
+  border-style: dotted;
+  border-width: 4px;
+   border-color: blue;
+  
+   }
+.alinear
+{
+align-text: center
+  ;
+    }
